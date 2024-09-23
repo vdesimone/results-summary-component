@@ -35,6 +35,7 @@ body {
   background-color: var(--white);
   max-width: 900px;
   border-radius: 30px;
+  box-shadow: 0 10px 20px hsla(224, 30%, 27%, 0.2);
 }
 .result {
   display: flex;
@@ -68,7 +69,7 @@ body {
 }
 .circle-display p {
   font-weight: 700;
-  color: 	hsl(246, 100%, 75%);
+  color: hsl(246, 100%, 75%);
 }
 .result-description h3 {
   color: var(--pale-blue);
