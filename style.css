@@ -74,7 +74,7 @@ body {
 .result-description h3 {
   color: var(--pale-blue);
   font-size: 1.4rem;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 .result-description p {
   font-size: 0.9rem;
@@ -145,9 +145,10 @@ body {
 }
 .score h4 {
   font-size: 0.9rem;
+  color: hsl(257, 7%, 60%);
 }
 .score span {
-  color: hsl(257, 7%, 60%);
+  color: var(--dark-grey-blue);
 }
 .continue-btn {
   font-size: 0.9rem;
