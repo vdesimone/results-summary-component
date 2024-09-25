@@ -159,6 +159,10 @@ body {
   background-color: var(--dark-grey-blue);
   margin-top: auto;
 }
+.continue-btn:hover {
+  cursor: pointer;
+  background: linear-gradient(var(--light-slate-blue), var(--light-royal-blue));
+}
 
 @media screen and (max-width: 425px) {
   .container {
