@@ -23,13 +23,13 @@ Users should be able to:
 ### Screenshot
 
 <p>
-  <strong>1440x850 Laptop L View</strong>
+  <strong>Laptop L View (1440x850)</strong>
   <br />
   <img src="https://github.com/user-attachments/assets/162ac6f8-2d23-45dc-8f48-2709202035d9" alt="results-summary-component-1440x850" />
 </p>
 
 <p>
-  <strong>320x850 Mobile S View</strong>
+  <strong>Mobile S View (320x850)</strong>
   <br />
   <img src="https://github.com/user-attachments/assets/0adb336d-fe1d-4137-a49c-df00dcb63d1a" alt="results-summary-component-320x850" />
 </p>
